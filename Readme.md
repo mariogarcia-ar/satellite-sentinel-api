@@ -93,6 +93,14 @@ Satellite data
    - [CODA](https://coda.eumetsat.int/#/home) : 
 
 
+Services data and information
+ - Land - CLMS 
+ - Atmosphere - CAMS 
+ - Emergency - EMS 
+ - Marine - CMEMS 
+ - Climate - C3S 
+ - Security
+
 ##### Two access points to Copernicus satellite data are managed by ESA:
 
 ###### Copernicus Open Access Hub
