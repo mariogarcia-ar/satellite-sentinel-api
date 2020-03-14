@@ -80,6 +80,40 @@ Access Services.
 #### Conventional Data Hubs
 [Web Site](https://www.copernicus.eu/en/access-data/conventional-data-access-hubs)
 
+The vast majority of data and information delivered by the Copernicus space infrastructure and the Copernicus services are made freely available and accessible to any citizen and any organisation around the world.
+
+
+Satellite data
+
+ - **ESA** : 
+   - [SCI Hub](https://scihub.copernicus.eu/) : The Copernicus Open Access Hub (previously known as Sentinels Scientific Data Hub) provides complete, free and open access to Sentinel-1, Sentinel-2, Sentinel-3 and **Sentinel-5P** user products, starting from the In-Orbit Commissioning Review(IOCR). Sentinel Data are also available via the Copernicus Data and Information Access Services (DIAS) through several [platforms](https://scihub.copernicus.eu/twiki/do/view/SciHubWebPortal/WebHome#dias-box) .
+   - [CSCDA](https://spacedata.copernicus.eu/web/cscda/home) : This Portal presents the services offered within the Copernicus Space Component Data Access system (CSCDA) context. It explains the user's eligibility, [data offer](https://spacedata.copernicus.eu/web/cscda/data-offer), data access mechanism and user support and is the entry point to the Copernicus User's Personal Area. Further to this, the Portal provides full visibility of all Copernicus Contributing Missions (CCMs) and the status of data provision. Information about the Copernicus Sentinel dedicated missions are instead available in [Sentinel Online](https://sentinels.copernicus.eu/), whilst data access is available to all from the [Copernicus Open Access Hub](https://scihub.copernicus.eu/).
+ - **EUMETSAT** : 
+   - [EUMETCast](https://www.eumetsat.int/website/home/Data/DataDelivery/EUMETCast/index.html) : EUMETCast is a multi-service dissemination system based on multicast technology. It uses commercial telecommunication geostationary satellites using DVB standards and research networks to multi-cast files (data and products) to a wide user community. EUMETCast also delivers a range of third-party products.
+   - [CODA](https://coda.eumetsat.int/#/home) : 
+
+
+##### Two access points to Copernicus satellite data are managed by ESA:
+
+###### Copernicus Open Access Hub
+
+Previously known as Sentinels Scientific Data Hub, the portal provides access to Sentinel data through an interactive graphical user interface. The portal will also provide access to data produced by future Sentinel missions when available.
+
+###### Copernicus Space Component Data Access (CSCDA)
+
+The portal provides access to the Copernicus collaborative ground segment. Anyone can view and discover data, but downloading images is restricted to public authorities, European projects and Copernicus services.
+
+ 
+
+##### Two access points to Copernicus satellite data are managed by EUMETSAT:
+
+###### EUMETCast
+
+Any environmental data, of any format, can be distributed through EUMETCast. The platform delivers more than 380 different product collections, including EUMETSAT’s own satellite data, Copernicus marine and atmosphere data, and a wide range of third-party products.
+
+###### Copernicus Online Data Access  (CODA)
+
+The Sentinel-3 CODA (Copernicus Online Data Access) Web Service provides free and open access to Sentinel-3 products through a 12 months rolling archive with access to Level 1 and Level 2 Marine data in different latency modes (Near Real-Time, Short Time Critical, Non Time Critical). Access is provided either through CODA user interface or through CODA APIs.  Both user interface and APIs allow users to set different parameters (geographic area, time, type of product etc) to refine their search in the archive of products. In case users need data older than one year, it is possible to use the EUMETSAT Data Centre.
 
 #### Services 
 
