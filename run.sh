@@ -3,7 +3,7 @@
 #description     :Ejemplo de uso de la api scihub de copernicus
 #author		     :mariogarcia.ar@gmail.com
 #date            :20200314
-#version         :0.|    
+#version         :0.1    
 #usage		     :bash run.sh
 #notes           :
 #==============================================================================
