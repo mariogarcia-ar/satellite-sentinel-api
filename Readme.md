@@ -36,10 +36,15 @@ public datasets https://apps.ecmwf.int/datasets/
 # Atmosphere Keywords
 
 S5P - Sentinel-5P
+
 TROPOMI - TROPOspheric Monitoring Instrument
+
 CH4 - Methane
+
 SO2 - Sulfur dioxide
+
 O3 - Ozone
+
 NO2 - nitrogen dioxide
 
 ## Getting Started
